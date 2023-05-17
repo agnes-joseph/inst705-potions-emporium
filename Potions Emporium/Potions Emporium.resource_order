@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"calc_movement","order":2,"path":"scripts/calc_movement/calc_movement.yy",},
+    {"name":"resetVariables","order":1,"path":"scripts/resetVariables/resetVariables.yy",},
+  ],
+}
